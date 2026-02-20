@@ -1,3 +1,5 @@
+﻿node_modules/
 .env
-.code-workspace
-Transcribanator.code-workspace
+.DS_Store
+dist/
+coverage/
